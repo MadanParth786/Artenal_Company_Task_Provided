@@ -1,5 +1,5 @@
 # Aternal_Company_Task_Provided
-A task Provided by A respective Alternal Ai and Ml based Company to complete it .
+A task Provided by A respective Artenal Ai and Ml based Company to complete it .
 Task Information:
 
 In order to showcase your knowledge about Machine learning, please do the following assignment.
